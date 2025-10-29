@@ -1,204 +1,643 @@
 [
       {
-         "name":"Dainik Jagran",
-         "url":"http://www.jagran.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/jagran.png"
+         "name":"Radio Mirchi 98.3 Delhi",
+         "url":"http://peridot.streamguys.com:7150/Mirchi",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/radio_mirchi.jpg"
       },
       {
-         "name":"Dainik bhaskar",
-         "url":"http://www.bhaskar.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/dainik_bhaskar.png"
+         "name":"Radio Mirchi 98.3 Hindi",
+         "url":"http://strw1.openstream.co/1969",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/radio_mirchi.jpg"
       },
       {
-         "name":"Amar Ujala",
-         "url":"https://www.amarujala.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/Amar_Ujala.png"
+         "name":"Aakash Vani 106.5",
+         "url":"https://streams.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_7756.jpg"
       },
       {
-         "name":"Patrika",
-         "url":"https://www.patrika.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/patrika.png"
+         "name":"Radio City Love Guru",
+         "url":"https://prclive4.listenon.in/Ishq",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52444.jpg"
       },
       {
-         "name":"Punjab kesari",
-         "url":"https://www.punjabkesari.in",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/punjabkesari.png"
+         "name":"Big FM 92.7 Hindi",
+         "url":"http://strw1.openstream.co/1968",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/big_fm.jpg"
       },
       {
-         "name":"Nav bharat",
-         "url":"http://www.navbharattimes.indiatimes.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/nav_bharat.png"
+         "name":"Big FM 106.2 UAE",
+         "url":"https://eu1.fastcast4u.com/proxy/dzcwbfih_eu?mp=/1",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_48648.jpg"
       },
       {
-         "name":"Covid World",
-         "url":"https://www.worldometers.info/coronavirus/",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/worldmeter.png"
+         "name":"Radio City 91.1 Pune",
+         "url":"http://stream.zenolive.com/0v0symztz2quv",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/radio_city.jpg"
       },
       {
-         "name":"Covid India",
-         "url":"https://www.covid19india.org/",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/corona.png"
+         "name":"Fever FM",
+         "url":"http://live.canstream.co.uk:8000/asianfever.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53097.jpg"
       },
       {
-         "name":"Cricinfo",
-         "url":"espncricinfo.com/",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/espncricinfo.png"
+         "name":"Ishq 104.8 Delhi",
+         "url":"http://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/master.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_54846.jpg"
       },
       {
-         "name":"Cricbuzz",
-         "url":"https://www.cricbuzz.com/",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/cricbuzz.png"
+         "name":"92.7 Big FM - Solapur",
+         "url":"http://sc-bb.1.fm:8017/",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/big_fm.jpg"
       },
       {
-         "name":"ABP Live",
-         "url":"https://www.abplive.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/abpnews.png"
+         "name":"Radio City Hindi",
+         "url":"https://prclive1.listenon.in/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_44579.jpg"
       },
       {
-         "name":"Jansatta",
-         "url":"https://www.jansatta.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/jansatta.png"
+         "name":"Radio Mirchi 98.3 Pune",
+         "url":"http://peridot.streamguys.com:7150/Mirchi",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53177.png"
       },
       {
-         "name":"Hindustan",
-         "url":"https://www.livehindustan.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/hindustan.png"
+         "name":"Radio Tarana AM 1386",
+         "url":"http://peridot.streamguys.com:7150/Tarana.aac",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53140.jpg"
       },
       {
-         "name":"Lokmath samachar",
-         "url":"http://epaper.lokmat.com/lokmatsamachar",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/lokmat_samachar.png"
+         "name":"Radio Mithila 100.8",
+         "url":"http://streaming.hamropatro.com:8244/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53230.jpg"
       },
       {
-         "name":"News18",
-         "url":"https://hindi.news18.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/news18_india.png"
+         "name":"Radio Olive 106.3",
+         "url":"http://22333.live.streamtheworld.com/OLIVE1063.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52770.jpg"
+      },
+	   {
+         "name":"Vividh Bharti",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/vividh.jpg"
+      },
+	  {
+         "name":"FM Gold",
+         "url":"https://air.pc.cdn.bitgravity.com/air/live/pbaudio007/playlist.m3u8",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/fm_gold.jpg"
+      },
+	  {
+         "name":"FM Rainbow",
+         "url":"https://air.pc.cdn.bitgravity.com/air/live/pbaudio008/chunklist.m3u8",
+         "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/fm_rainbow.jpg"
       },
       {
-         "name":"ABP Live",
-         "url":"https://www.abplive.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/abpnews.png"
+         "name":"Retro Bollywood",
+         "url":"https://stream.zeno.fm/g372rxef798uv",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/retro_bollywood.png"
       },
       {
-         "name":"One India",
-         "url":"https://hindi.oneindia.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/oneindia.png"
+         "name":"AIR Agra",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Zee News",
-         "url":"http://zeenews.india.com/hindi",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/zeenews.png"
+         "name":"AIR Almora",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Times of India",
-         "url":"https://timesofindia.indiatimes.com/hindi-news",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/timesofindia.png"
+         "name":"AIR Ambikapur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"NDTV India",
-         "url":"https://khabar.ndtv.com/videos/live/channel/ndtvindia",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/NDTV.png"
+         "name":"AIR Balaghat",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Nai Dunia",
-         "url":"https://epaper.naidunia.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/naidunia.png"
+         "name":"AIR Bareilly",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Puri Dunia",
-         "url":"https://puridunia.com/",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/puriduniya.png"
+         "name":"AIR Betul",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Webdunia",
-         "url":"https://hindi.webdunia.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/webdunia.png"
+         "name":"AIR Bhopal",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"CNBC Awaaz",
-         "url":"https://hindi.moneycontrol.com/tv",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/Cnbcawaaz.png"
+         "name":"AIR Bilaspur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Business Standard",
-         "url":"https://hindi.business-standard.com",
-         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/business_std.png"
+         "name":"AIR Chaibasa",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"NDTV 24X7",
-         "url":"https://www.ndtv.com/video/live/channel/ndtv24x7",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/ndtv.png"
+         "name":"AIR Chandigarh",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"News18",
-         "url":"https://www.news18.com/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/news18.png"
+         "name":"AIR Chhatarpur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Times Now",
-         "url":"https://www.timesnownews.com/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/times_now.png"
+         "name":"AIR Chhindwara",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"India Today",
-         "url":"https://www.indiatoday.in/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/india_today.png"
+         "name":"AIR Dehradun",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Republic",
-         "url":"https://www.republicworld.com/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/republic.png"
+         "name":"AIR Delhi Indraprastha",
+         "url":"http://nondelhi-lh.akamaihd.net:80/i/indradelhi_1@830450/index_1_a-p.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"NewsX",
-         "url":"https://www.newsx.com",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/newsx.png"
+         "name":"AIR Delhi Rajdhani",
+         "url":"http://nondelhi-lh.akamaihd-staging.net:80/i/rajdelhi_1@830451/index_1_a-p.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"CNBC TV18",
-         "url":"https://www.cnbctv18.com/live-tv/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/cnbc.png"
+         "name":"AIR Dharamshala",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"NDTV Profit",
-         "url":"https://www.ndtv.com/business",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/profit.png",
-         "browser":"chrome"
+         "name":"AIR FM Rainbow Lucknow",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Google News",
-         "url":"https://news.google.com/?tab=wn&hl=en-IN&gl=IN&ceid=IN:en",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/google.jpg"
+         "name":"AIR Gangtok",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"BBC News",
-         "url":"https://www.bbc.com/news/world",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/bbc.jpg",
-         "browser":"chrome"
+         "name":"AIR Gorakhpur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Sky News",
-         "url":"https://news.sky.com/world",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/sky.jpg"
+         "name":"AIR Gwalior",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Al Jazeera",
-         "url":"https://www.aljazeera.com/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/jazeera.jpg"
+         "name":"AIR Hazaribagh",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio197/chunklist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"ABC News",
-         "url":"https://abcnews.go.com/International",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/abc_news.jpg"
+         "name":"AIR Indore",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"BBC Sport",
-         "url":"https://www.bbc.co.uk/sport",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/bbc_sport.png"
+         "name":"AIR Jabalpur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
-         "name":"Sky Sports",
-         "url":"https://www.skysports.com/",
-         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/sky_sports.jpg"
+         "name":"AIR Jagdalpur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Jhansi",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Kathua",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Khandwa",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Live News 24x7",
+         "url":"http://esdcdn2-lh.akamaihd.net:80/i/esdcdn2_1@528073/index_1_a-p.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Lucknow",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Mathura",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Najibabad",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Port Blair PC",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Prayagraj",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Pune",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Raigarh",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Rampur",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Ranchi",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Sagar",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio204/play.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Sasaram",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Shahdol",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Shimla",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Shimla PC",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Srinagar",
+         "url":"http://kashmiri-lh.akamaihd.net:80/i/kashmiri_1@528067/index_1_a-p.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Varanasi",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"Radio City Smaran ",
+         "url":"http://prclive1.listenon.in:9950/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26341.jpg"
+      },
+      {
+         "name":"Mithilanchal 105.0 FM",
+         "url":"http://sradios.com/api/fmurl?fm_id=53205",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53205.jpg"
+      },
+      {
+         "name":"BBC Asian Network Radio",
+         "url":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_q",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_8034.jpg"
+      },
+      {
+         "name":"Radio Sangam 99.8",
+         "url":"http://stream2.iqhosted.nl:8000/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_41379.jpg"
+      },
+      {
+         "name":"CINA 1650 AM",
+         "url":"http://ice8.securenetsystems.net/CINA",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_5603.jpg"
+      },
+      {
+         "name":"Radio Caravan Hindi",
+         "url":"https://stream.radio.co/s0e4cf6d8e/listen",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53502.jpg"
+      },
+      {
+         "name":"Radio City 91.1",
+         "url":"http://strw1.openstream.co/1967",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53500.jpg"
+      },
+      {
+         "name":"Radio Humsafar 1610 AM",
+         "url":"http://ice3.securenetsystems.net/HUMSAFAR",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52522.jpg"
+      },
+       {
+         "name":"Radio City Dance - International",
+         "url":"http://prclive1.listenon.in:8994/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52456.jpg"
+      },
+      {
+         "name":"EBC Radio 1170 AM",
+         "url":"http://ice7.securenetsystems.net/WWTR",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53223.jpg"
+      },
+      {
+         "name":"Radio Olive Club",
+         "url":"http://18723.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04_SC",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_54848.jpg"
+      },
+      {
+         "name":"Radio Olive Hits",
+         "url":"http://18493.live.streamtheworld.com/RADIO_OLIVE_HITS_S02_SC",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_54847.jpg"
+      },
+      {
+         "name":"Sunrise FM Netherlands",
+         "url":"http://185.66.249.48:8006/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52555.jpg"
+      },
+      {
+         "name":"SBS Pop Desi FM",
+         "url":"http://sbs-ice.streamguys1.com/sbs-popdesi",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52553.jpg"
+      },
+      {
+         "name":"SpiceRadio.ca",
+         "url":"http://sbs-ice.streamguys1.com/sbs-popdesi",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52734.jpg"
+      },
+     
+      {
+         "name":"Akhand Kirtani Jatha",
+         "url":"http://edge.akjradio.org:3232/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"Alachua Temple Live Feed",
+         "url":"http://185.105.4.53:8038/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR North East",
+         "url":"http://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Raagam",
+         "url":"http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Rainbow",
+         "url":"http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"AIR Urdu",
+         "url":"http://airurdu-lh.akamaihd.net/i/airurdu_1@507813/master.m3u8",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
+      },
+      {
+         "name":"Talk Sport 2",
+         "url":"https://radio.talksport.com/stream2",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53345.jpg"
+      },
+      {
+         "name":"Talk Sport 1",
+         "url":"https://radio.talksport.com/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53344.jpg"
+      },
+      {
+         "name":"Bhakti Radio City",
+         "url":"http://108.178.13.122:8006/;stream.nsv",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46165.jpg"
+      },
+      {
+         "name":"24 Hour Kirtan Radio Mandali",
+         "url":"http://icecast.24hourkirtan.fm:8000/128k.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52592.jpg"
+      },
+      {
+         "name":"Radio City Smaran ",
+         "url":"http://prclive1.listenon.in:9950/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26341.jpg"
+      },
+      {
+         "name":"Kripalu Bhakti Dhara Radio",
+         "url":"http://s7.streammonster.com:8473/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46181.jpg"
+      },
+      {
+         "name":"Mantra Radio",
+         "url":"http://stream.mantraradio.eu:14041/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_6866.jpg"
+      },
+      {
+         "name":"Kripalu Bhakti Radio",
+         "url":"http://s4.streammonster.com:8417/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46176.jpg"
+      },
+      {
+         "name":"Bapdada Hindi Radio",
+         "url":"http://comet.shoutca.st:8744/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53809.jpg"
+      },
+      {
+         "name":"Hare Krishna Bhajan",
+         "url":"http://comet.shoutca.st:8744/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26431.jpg"
+      },
+      {
+         "name":"Radio Divya Jyoti",
+         "url":"http://s8.voscast.com:9280/stream.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46182.jpg"
+      },
+      {
+         "name":"Swami Haridas Radha Krishna Bhajan",
+         "url":"http://s8.voscast.com:9280/stream.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46169.jpg"
+      },
+      {
+         "name":"Nirankari Radio",
+         "url":"http://s1.voscast.com:9666/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53512.jpg"
+      },
+      {
+         "name":"Awaz e Haq World Radio",
+         "url":"http://s3.viastreaming.net:8520/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53128.jpg"
+      },
+      {
+         "name":"Khalsa FM",
+         "url":"http://s3.voscast.com:7798/;stream.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26429.jpg"
+      },
+      {
+         "name":"Akhand Kirtani Jatha",
+         "url":"http://edge.akjradio.org:3232/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_47451.jpg"
+      },
+      {
+         "name":"Jain Media Live",
+         "url":"http://s4.voscast.com:7756/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26409.jpg"
+      },
+      {
+         "name":"Kirtana Radio",
+         "url":"http://icecast.24hourkirtan.fm:8000/128k.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52573.jpg"
+      },
+      {
+         "name":"Swaminarayan Radio Kirtan",
+         "url":"http://radio.bhujmandir.org:8000/stream/1/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52574.jpg"
+      },
+      {
+         "name":"Swaminarayan Radio - Swaminarayan Kirtan",
+         "url":"http://radio.bhujmandir.org:8000/stream/3/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46171.jpg"
+      },
+      {
+         "name":"Swaminarayan Radio - Swaminarayan Dhun",
+         "url":"http://radio.bhujmandir.org:8000/stream/6/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46172.jpg"
+      },
+      {
+         "name":"Swaminarayan Radio - Swaminarayan Katha",
+         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46180.jpg"
+      },
+      {
+         "name":"Radhanath Swami Lecture Radio",
+         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52586.jpg"
+      },
+      {
+         "name":"Nirvana Ambient Radio",
+         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52591.jpg"
+      },
+      {
+         "name":"Hare Krishna Lectures",
+         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52571.jpg"
+      },
+      {
+         "name":"Alachua Temple Live Feed",
+         "url":"http://185.105.4.53:8038/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_28575.jpg"
+      },
+      {
+         "name":"Srila Prabhupada Live",
+         "url":"http://usa1.fastcast4u.com/proxy/splive?mp=/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52572.jpg"
+      },
+      {
+         "name":"Radio Krishna Centrale - RKC",
+         "url":"http://usa1.fastcast4u.com/proxy/splive?mp=/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52587.jpg"
+      },
+      {
+         "name":"Radio Krishna Centrale - RKC 1",
+         "url":"http://usa1.fastcast4u.com/proxy/splive?mp=/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52588.jpg"
+      },
+      {
+         "name":"IMFM Radio",
+         "url":"http://162.241.29.232:8004/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53618.jpg"
+      },
+      {
+         "name":"Hindi Bible Radio",
+         "url":"https://node-26.zeno.fm/92dg9vsfnueuv?rj-ttl=5&rj-tok=AAABcyWkRN4ALoYei5SU1r1x9A",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53791.jpg"
+      },
+      {
+         "name":"Luminous Radio Hindi",
+         "url":"http://192.111.140.6:8601/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46164.jpg"
+      },
+      {
+         "name":"Jesus Alive Radio",
+         "url":"https://node-10.zeno.fm/qyb8s75nsceuv?rj-ttl=5&rj-tok=AAABcyWkjPUAhmtvUar4BZuibQ",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53749.jpg"
+      },
+      {
+         "name":"Pray To Praise Christian Radio",
+         "url":"https://node-05.zeno.fm/c7tgtp1f9neuv?rj-ttl=5&rj-tok=AAABcyWkzMMAgs-lm7YrchQt9g",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53751.jpg"
+      },
+      {
+         "name":"Hand of Jesus Hindi",
+         "url":"http://66.55.145.43:7564/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53551.jpg"
+      },
+      {
+         "name":"Hindi Christian Radio - Coonoor",
+         "url":"http://66.55.145.43:7564/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52590.jpg"
+      },
+      {
+         "name":"Jesus Coming FM Hindi",
+         "url":"http://66.55.145.43:7564/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53525.jpg"
+      },
+      {
+         "name":"FEBA Online Radio",
+         "url":"https://stream.radio.co/s383f50ab3/listen",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53256.jpg"
+      },
+      {
+         "name":"Shalombeats Radio Hindi",
+         "url":"http://rd.shalombeatsradio.com:7090/stream",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52662.jpg"
+      },
+      {
+         "name":"Khush Khabri Radio",
+         "url":"http://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46447.jpg"
+      },
+      {
+         "name":"Hamdosana Net Radio",
+         "url":"http://16153.live.streamtheworld.com/SAM07AAC214_SC",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_28576.jpg"
+      },
+      {
+         "name":"Radio City Faith",
+         "url":"http://prclive1.listenon.in:8830/;",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52451.jpg"
+      },
+      {
+         "name":"Shalombeats Radio English",
+         "url":"http://rd.shalombeatsradio.com:8190/stream.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52661.jpg"
+      },
+      {
+         "name":"Quran in Hindi by EDC",
+         "url":"http://quraan.us:9982/;stream.mp3",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26423.jpg"
       }
 ]
