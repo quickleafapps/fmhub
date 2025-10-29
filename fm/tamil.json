@@ -3,55 +3,55 @@
     "name": "FM Rainbow Chennai",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
     "img": "https://tamilradios.net/webpimg/radio_72401_air-rainbow-Che.webp",
-    "category": "Music"
+    "category": "Radio"
   },
   {
     "name": "Muthamil Fm",
     "url": "https://ec2.yesstreaming.net:2540/stream",
     "img": "https://tamilradios.net/webpimg/radio_24565_muthamil-fm.webp",
-    "category": "Hits"
+    "category": "Radio"
   },
   {
     "name": "Thaalam FM - 88.9 HD3",
     "url": "https://ec4.yesstreaming.net:1990/stream",
     "img": "https://tamilradios.net/webpimg/radio_38984_thaalam.webp",
-    "category": "Entertainment"
+    "category": "Radio"
   },
   {
     "name": "CMR Tamil HD Radio",
     "url": "https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio",
     "img": "https://tamilradios.net/webpimg/radio_84626_cmr-tamil-hd-radio.webp",
-    "category": "Devotional"
+    "category": "Radio"
   },
   {
     "name": "Minnal FM",
     "url": "https://28163.live.streamtheworld.com/MINNAL_FMAAC.aac",
     "img": "https://tamilradios.net/webpimg/radio_56570_RTM-Minnal-Fm.webp",
-    "category": "International"
+    "category": "Radio"
   },
   {
     "name": "ADIRAI FM 90.4",
     "url": "https://listen.radioking.com/radio/188161/stream/230320",
     "img": "https://tamilradios.net/webpimg/radio_95083_ADIRAI-FM-90.4.webp",
-    "category": "International"
+    "category": "Radio"
   },
   {
     "name": "AMR Radio",
-    "url": " https://tamilradios.net/radiolive/?q=http://listen.openstream.co/5791/audio",
+    "url": "https://tamilradios.net/radiolive/?q=http://listen.openstream.co/5791/audio",
     "img": "https://tamilradios.net/webpimg/radio_4881_amr-radio.webp",
-    "category": "International"
+    "category": "Radio"
   },
   {
     "name": "Dnet FM 90.8",
     "url": "https://streamasiahlscdn.atc-labs.com/dnetfm.m3u8",
     "img": "https://tamilradios.net/webpimg/radio_45965_d-net.webp",
-    "category": "International"
+    "category": "Radio"
   },
   {
     "name": "Sona FM 107.8",
     "url": "https://streamasiahlscdn.atc-labs.com/valliapparadio.m3u8",
     "img": "https://tamilradios.net/webpimg/radio_14748_download.webp",
-    "category": "International"
+    "category": "Radio"
   },
   {
     "name": "Alayam FM 90.0",
@@ -72,5 +72,7 @@
     "img":"https://tamilradios.net/webpimg/radio_6993_Anboli-FM.webp",
     "category":"Music"
   }
+
+
 
 ]
