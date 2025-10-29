@@ -1,12 +1,12 @@
 [
       {
          "name":"Radio Mirchi 98.3 Delhi",
-         "url":"http://peridot.streamguys.com:7150/Mirchi",
+         "url":"https://peridot.streamguys.com:7150/Mirchi",
          "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/radio_mirchi.jpg"
       },
       {
          "name":"Radio Mirchi 98.3 Hindi",
-         "url":"http://strw1.openstream.co/1969",
+         "url":"https://strw1.openstream.co/1969",
          "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/radio_mirchi.jpg"
       },
       {
@@ -21,7 +21,7 @@
       },
       {
          "name":"Big FM 92.7 Hindi",
-         "url":"http://strw1.openstream.co/1968",
+         "url":"https://strw1.openstream.co/1968",
          "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/big_fm.jpg"
       },
       {
@@ -31,22 +31,22 @@
       },
       {
          "name":"Radio City 91.1 Pune",
-         "url":"http://stream.zenolive.com/0v0symztz2quv",
+         "url":"https://stream.zenolive.com/0v0symztz2quv",
          "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/radio_city.jpg"
       },
       {
          "name":"Fever FM",
-         "url":"http://live.canstream.co.uk:8000/asianfever.mp3",
+         "url":"https://live.canstream.co.uk:8000/asianfever.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53097.jpg"
       },
       {
          "name":"Ishq 104.8 Delhi",
-         "url":"http://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/master.m3u8",
+         "url":"https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/master.m3u8",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_54846.jpg"
       },
       {
          "name":"92.7 Big FM - Solapur",
-         "url":"http://sc-bb.1.fm:8017/",
+         "url":"https://sc-bb.1.fm:8017/",
          "img":"https://storage.googleapis.com/madzlocaltv/images/Tamilnews/fm/big_fm.jpg"
       },
       {
@@ -56,22 +56,22 @@
       },
       {
          "name":"Radio Mirchi 98.3 Pune",
-         "url":"http://peridot.streamguys.com:7150/Mirchi",
+         "url":"https://peridot.streamguys.com:7150/Mirchi",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53177.png"
       },
       {
          "name":"Radio Tarana AM 1386",
-         "url":"http://peridot.streamguys.com:7150/Tarana.aac",
+         "url":"https://peridot.streamguys.com:7150/Tarana.aac",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53140.jpg"
       },
       {
          "name":"Radio Mithila 100.8",
-         "url":"http://streaming.hamropatro.com:8244/;",
+         "url":"https://streaming.hamropatro.com:8244/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53230.jpg"
       },
       {
          "name":"Radio Olive 106.3",
-         "url":"http://22333.live.streamtheworld.com/OLIVE1063.mp3",
+         "url":"https://22333.live.streamtheworld.com/OLIVE1063.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52770.jpg"
       },
 	   {
@@ -161,12 +161,12 @@
       },
       {
          "name":"AIR Delhi Indraprastha",
-         "url":"http://nondelhi-lh.akamaihd.net:80/i/indradelhi_1@830450/index_1_a-p.m3u8",
+         "url":"https://nondelhi-lh.akamaihd.net:80/i/indradelhi_1@830450/index_1_a-p.m3u8",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
          "name":"AIR Delhi Rajdhani",
-         "url":"http://nondelhi-lh.akamaihd-staging.net:80/i/rajdelhi_1@830451/index_1_a-p.m3u8",
+         "url":"https://nondelhi-lh.akamaihd-staging.net:80/i/rajdelhi_1@830451/index_1_a-p.m3u8",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
@@ -231,7 +231,7 @@
       },
       {
          "name":"AIR Live News 24x7",
-         "url":"http://esdcdn2-lh.akamaihd.net:80/i/esdcdn2_1@528073/index_1_a-p.m3u8",
+         "url":"https://esdcdn2-lh.akamaihd.net:80/i/esdcdn2_1@528073/index_1_a-p.m3u8",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
@@ -306,7 +306,7 @@
       },
       {
          "name":"AIR Srinagar",
-         "url":"http://kashmiri-lh.akamaihd.net:80/i/kashmiri_1@528067/index_1_a-p.m3u8",
+         "url":"https://kashmiri-lh.akamaihd.net:80/i/kashmiri_1@528067/index_1_a-p.m3u8",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
@@ -316,27 +316,27 @@
       },
       {
          "name":"Radio City Smaran ",
-         "url":"http://prclive1.listenon.in:9950/;",
+         "url":"https://prclive1.listenon.in:9950/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26341.jpg"
       },
       {
          "name":"Mithilanchal 105.0 FM",
-         "url":"http://sradios.com/api/fmurl?fm_id=53205",
+         "url":"https://sradios.com/api/fmurl?fm_id=53205",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53205.jpg"
       },
       {
          "name":"BBC Asian Network Radio",
-         "url":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_q",
+         "url":"https://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_q",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_8034.jpg"
       },
       {
          "name":"Radio Sangam 99.8",
-         "url":"http://stream2.iqhosted.nl:8000/stream",
+         "url":"https://stream2.iqhosted.nl:8000/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_41379.jpg"
       },
       {
          "name":"CINA 1650 AM",
-         "url":"http://ice8.securenetsystems.net/CINA",
+         "url":"https://ice8.securenetsystems.net/CINA",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_5603.jpg"
       },
       {
@@ -346,58 +346,58 @@
       },
       {
          "name":"Radio City 91.1",
-         "url":"http://strw1.openstream.co/1967",
+         "url":"https://strw1.openstream.co/1967",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53500.jpg"
       },
       {
          "name":"Radio Humsafar 1610 AM",
-         "url":"http://ice3.securenetsystems.net/HUMSAFAR",
+         "url":"https://ice3.securenetsystems.net/HUMSAFAR",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52522.jpg"
       },
        {
          "name":"Radio City Dance - International",
-         "url":"http://prclive1.listenon.in:8994/;",
+         "url":"https://prclive1.listenon.in:8994/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52456.jpg"
       },
       {
          "name":"EBC Radio 1170 AM",
-         "url":"http://ice7.securenetsystems.net/WWTR",
+         "url":"https://ice7.securenetsystems.net/WWTR",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53223.jpg"
       },
       {
          "name":"Radio Olive Club",
-         "url":"http://18723.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04_SC",
+         "url":"https://18723.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04_SC",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_54848.jpg"
       },
       {
          "name":"Radio Olive Hits",
-         "url":"http://18493.live.streamtheworld.com/RADIO_OLIVE_HITS_S02_SC",
+         "url":"https://18493.live.streamtheworld.com/RADIO_OLIVE_HITS_S02_SC",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_54847.jpg"
       },
       {
          "name":"Sunrise FM Netherlands",
-         "url":"http://185.66.249.48:8006/stream",
+         "url":"https://185.66.249.48:8006/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52555.jpg"
       },
       {
          "name":"SBS Pop Desi FM",
-         "url":"http://sbs-ice.streamguys1.com/sbs-popdesi",
+         "url":"https://sbs-ice.streamguys1.com/sbs-popdesi",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52553.jpg"
       },
       {
          "name":"SpiceRadio.ca",
-         "url":"http://sbs-ice.streamguys1.com/sbs-popdesi",
+         "url":"https://sbs-ice.streamguys1.com/sbs-popdesi",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52734.jpg"
       },
      
       {
          "name":"Akhand Kirtani Jatha",
-         "url":"http://edge.akjradio.org:3232/;",
+         "url":"https://edge.akjradio.org:3232/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
          "name":"Alachua Temple Live Feed",
-         "url":"http://185.105.4.53:8038/stream",
+         "url":"https://185.105.4.53:8038/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
@@ -412,7 +412,7 @@
       },
       {
          "name":"AIR Rainbow",
-         "url":"http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8",
+         "url":"https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/airindia.png"
       },
       {
@@ -432,142 +432,142 @@
       },
       {
          "name":"Bhakti Radio City",
-         "url":"http://108.178.13.122:8006/;stream.nsv",
+         "url":"https://108.178.13.122:8006/;stream.nsv",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46165.jpg"
       },
       {
          "name":"24 Hour Kirtan Radio Mandali",
-         "url":"http://icecast.24hourkirtan.fm:8000/128k.mp3",
+         "url":"https://icecast.24hourkirtan.fm:8000/128k.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52592.jpg"
       },
       {
          "name":"Radio City Smaran ",
-         "url":"http://prclive1.listenon.in:9950/;",
+         "url":"https://prclive1.listenon.in:9950/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26341.jpg"
       },
       {
          "name":"Kripalu Bhakti Dhara Radio",
-         "url":"http://s7.streammonster.com:8473/;",
+         "url":"https://s7.streammonster.com:8473/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46181.jpg"
       },
       {
          "name":"Mantra Radio",
-         "url":"http://stream.mantraradio.eu:14041/stream",
+         "url":"https://stream.mantraradio.eu:14041/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_6866.jpg"
       },
       {
          "name":"Kripalu Bhakti Radio",
-         "url":"http://s4.streammonster.com:8417/;",
+         "url":"https://s4.streammonster.com:8417/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46176.jpg"
       },
       {
          "name":"Bapdada Hindi Radio",
-         "url":"http://comet.shoutca.st:8744/stream",
+         "url":"https://comet.shoutca.st:8744/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53809.jpg"
       },
       {
          "name":"Hare Krishna Bhajan",
-         "url":"http://comet.shoutca.st:8744/stream",
+         "url":"https://comet.shoutca.st:8744/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26431.jpg"
       },
       {
          "name":"Radio Divya Jyoti",
-         "url":"http://s8.voscast.com:9280/stream.mp3",
+         "url":"https://s8.voscast.com:9280/stream.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46182.jpg"
       },
       {
          "name":"Swami Haridas Radha Krishna Bhajan",
-         "url":"http://s8.voscast.com:9280/stream.mp3",
+         "url":"https://s8.voscast.com:9280/stream.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46169.jpg"
       },
       {
          "name":"Nirankari Radio",
-         "url":"http://s1.voscast.com:9666/;",
+         "url":"https://s1.voscast.com:9666/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53512.jpg"
       },
       {
          "name":"Awaz e Haq World Radio",
-         "url":"http://s3.viastreaming.net:8520/;",
+         "url":"https://s3.viastreaming.net:8520/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53128.jpg"
       },
       {
          "name":"Khalsa FM",
-         "url":"http://s3.voscast.com:7798/;stream.mp3",
+         "url":"https://s3.voscast.com:7798/;stream.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26429.jpg"
       },
       {
          "name":"Akhand Kirtani Jatha",
-         "url":"http://edge.akjradio.org:3232/;",
+         "url":"https://edge.akjradio.org:3232/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_47451.jpg"
       },
       {
          "name":"Jain Media Live",
-         "url":"http://s4.voscast.com:7756/;",
+         "url":"https://s4.voscast.com:7756/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26409.jpg"
       },
       {
          "name":"Kirtana Radio",
-         "url":"http://icecast.24hourkirtan.fm:8000/128k.mp3",
+         "url":"https://icecast.24hourkirtan.fm:8000/128k.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52573.jpg"
       },
       {
          "name":"Swaminarayan Radio Kirtan",
-         "url":"http://radio.bhujmandir.org:8000/stream/1/",
+         "url":"https://radio.bhujmandir.org:8000/stream/1/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52574.jpg"
       },
       {
          "name":"Swaminarayan Radio - Swaminarayan Kirtan",
-         "url":"http://radio.bhujmandir.org:8000/stream/3/",
+         "url":"https://radio.bhujmandir.org:8000/stream/3/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46171.jpg"
       },
       {
          "name":"Swaminarayan Radio - Swaminarayan Dhun",
-         "url":"http://radio.bhujmandir.org:8000/stream/6/",
+         "url":"https://radio.bhujmandir.org:8000/stream/6/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46172.jpg"
       },
       {
          "name":"Swaminarayan Radio - Swaminarayan Katha",
-         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "url":"https://radio.bhujmandir.org:8000/stream/8/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46180.jpg"
       },
       {
          "name":"Radhanath Swami Lecture Radio",
-         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "url":"https://radio.bhujmandir.org:8000/stream/8/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52586.jpg"
       },
       {
          "name":"Nirvana Ambient Radio",
-         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "url":"https://radio.bhujmandir.org:8000/stream/8/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52591.jpg"
       },
       {
          "name":"Hare Krishna Lectures",
-         "url":"http://radio.bhujmandir.org:8000/stream/8/",
+         "url":"https://radio.bhujmandir.org:8000/stream/8/",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52571.jpg"
       },
       {
          "name":"Alachua Temple Live Feed",
-         "url":"http://185.105.4.53:8038/stream",
+         "url":"https://185.105.4.53:8038/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_28575.jpg"
       },
       {
          "name":"Srila Prabhupada Live",
-         "url":"http://usa1.fastcast4u.com/proxy/splive?mp=/stream",
+         "url":"https://usa1.fastcast4u.com/proxy/splive?mp=/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52572.jpg"
       },
       {
          "name":"Radio Krishna Centrale - RKC",
-         "url":"http://usa1.fastcast4u.com/proxy/splive?mp=/stream",
+         "url":"https://usa1.fastcast4u.com/proxy/splive?mp=/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52587.jpg"
       },
       {
          "name":"Radio Krishna Centrale - RKC 1",
-         "url":"http://usa1.fastcast4u.com/proxy/splive?mp=/stream",
+         "url":"https://usa1.fastcast4u.com/proxy/splive?mp=/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52588.jpg"
       },
       {
          "name":"IMFM Radio",
-         "url":"http://162.241.29.232:8004/;",
+         "url":"https://162.241.29.232:8004/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53618.jpg"
       },
       {
@@ -577,7 +577,7 @@
       },
       {
          "name":"Luminous Radio Hindi",
-         "url":"http://192.111.140.6:8601/stream",
+         "url":"https://192.111.140.6:8601/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46164.jpg"
       },
       {
@@ -592,17 +592,17 @@
       },
       {
          "name":"Hand of Jesus Hindi",
-         "url":"http://66.55.145.43:7564/stream",
+         "url":"https://66.55.145.43:7564/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53551.jpg"
       },
       {
          "name":"Hindi Christian Radio - Coonoor",
-         "url":"http://66.55.145.43:7564/stream",
+         "url":"https://66.55.145.43:7564/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52590.jpg"
       },
       {
          "name":"Jesus Coming FM Hindi",
-         "url":"http://66.55.145.43:7564/stream",
+         "url":"https://66.55.145.43:7564/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_53525.jpg"
       },
       {
@@ -612,32 +612,32 @@
       },
       {
          "name":"Shalombeats Radio Hindi",
-         "url":"http://rd.shalombeatsradio.com:7090/stream",
+         "url":"https://rd.shalombeatsradio.com:7090/stream",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52662.jpg"
       },
       {
          "name":"Khush Khabri Radio",
-         "url":"http://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3",
+         "url":"https://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_46447.jpg"
       },
       {
          "name":"Hamdosana Net Radio",
-         "url":"http://16153.live.streamtheworld.com/SAM07AAC214_SC",
+         "url":"https://16153.live.streamtheworld.com/SAM07AAC214_SC",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_28576.jpg"
       },
       {
          "name":"Radio City Faith",
-         "url":"http://prclive1.listenon.in:8830/;",
+         "url":"https://prclive1.listenon.in:8830/;",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52451.jpg"
       },
       {
          "name":"Shalombeats Radio English",
-         "url":"http://rd.shalombeatsradio.com:8190/stream.mp3",
+         "url":"https://rd.shalombeatsradio.com:8190/stream.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_52661.jpg"
       },
       {
          "name":"Quran in Hindi by EDC",
-         "url":"http://quraan.us:9982/;stream.mp3",
+         "url":"https://quraan.us:9982/;stream.mp3",
          "img":"https://storage.googleapis.com/hindinewsapp/image/fm/fm_26423.jpg"
       }
 ]
