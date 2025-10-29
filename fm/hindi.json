@@ -1,32 +1,204 @@
 [
-  {
-    "name": "AIR FM Rainbow",
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-    "img": "https://i.imgur.com/air_fm.png",
-    "category": "News"
-  },
-  {
-    "name": "Radio City Hindi",
-    "url": "https://prclive1.listenon.in/Hindi",
-    "img": "https://i.imgur.com/radiocity_hindi.png",
-    "category": "Bollywood"
-  },
-  {
-    "name": "Red FM India",
-    "url": "https://stream-65.zeno.fm/gq5xy4n5u0hvv",
-    "img": "https://i.imgur.com/red_fm.png",
-    "category": "Hits"
-  },
-  {
-    "name": "Radio Mirchi 98.3",
-    "url": "https://stream-icy.radio.mirchi.com/mirchi",
-    "img": "https://i.imgur.com/mirchi_hindi.png",
-    "category": "Music"
-  },
-  {
-    "name": "Vividh Bharati",
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8",
-    "img": "https://i.imgur.com/vividh_bharati.png",
-    "category": "Classics"
-  }
+      {
+         "name":"Dainik Jagran",
+         "url":"http://www.jagran.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/jagran.png"
+      },
+      {
+         "name":"Dainik bhaskar",
+         "url":"http://www.bhaskar.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/dainik_bhaskar.png"
+      },
+      {
+         "name":"Amar Ujala",
+         "url":"https://www.amarujala.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/Amar_Ujala.png"
+      },
+      {
+         "name":"Patrika",
+         "url":"https://www.patrika.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/patrika.png"
+      },
+      {
+         "name":"Punjab kesari",
+         "url":"https://www.punjabkesari.in",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/punjabkesari.png"
+      },
+      {
+         "name":"Nav bharat",
+         "url":"http://www.navbharattimes.indiatimes.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/nav_bharat.png"
+      },
+      {
+         "name":"Covid World",
+         "url":"https://www.worldometers.info/coronavirus/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/worldmeter.png"
+      },
+      {
+         "name":"Covid India",
+         "url":"https://www.covid19india.org/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/corona.png"
+      },
+      {
+         "name":"Cricinfo",
+         "url":"espncricinfo.com/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/espncricinfo.png"
+      },
+      {
+         "name":"Cricbuzz",
+         "url":"https://www.cricbuzz.com/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/cricbuzz.png"
+      },
+      {
+         "name":"ABP Live",
+         "url":"https://www.abplive.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/abpnews.png"
+      },
+      {
+         "name":"Jansatta",
+         "url":"https://www.jansatta.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/jansatta.png"
+      },
+      {
+         "name":"Hindustan",
+         "url":"https://www.livehindustan.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/hindustan.png"
+      },
+      {
+         "name":"Lokmath samachar",
+         "url":"http://epaper.lokmat.com/lokmatsamachar",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/lokmat_samachar.png"
+      },
+      {
+         "name":"News18",
+         "url":"https://hindi.news18.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/news18_india.png"
+      },
+      {
+         "name":"ABP Live",
+         "url":"https://www.abplive.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/abpnews.png"
+      },
+      {
+         "name":"One India",
+         "url":"https://hindi.oneindia.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/oneindia.png"
+      },
+      {
+         "name":"Zee News",
+         "url":"http://zeenews.india.com/hindi",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/zeenews.png"
+      },
+      {
+         "name":"Times of India",
+         "url":"https://timesofindia.indiatimes.com/hindi-news",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/timesofindia.png"
+      },
+      {
+         "name":"NDTV India",
+         "url":"https://khabar.ndtv.com/videos/live/channel/ndtvindia",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/NDTV.png"
+      },
+      {
+         "name":"Nai Dunia",
+         "url":"https://epaper.naidunia.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/naidunia.png"
+      },
+      {
+         "name":"Puri Dunia",
+         "url":"https://puridunia.com/",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/puriduniya.png"
+      },
+      {
+         "name":"Webdunia",
+         "url":"https://hindi.webdunia.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/webdunia.png"
+      },
+      {
+         "name":"CNBC Awaaz",
+         "url":"https://hindi.moneycontrol.com/tv",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/Cnbcawaaz.png"
+      },
+      {
+         "name":"Business Standard",
+         "url":"https://hindi.business-standard.com",
+         "img":"https://storage.googleapis.com/hindinewsapp/image/newsp/business_std.png"
+      },
+      {
+         "name":"NDTV 24X7",
+         "url":"https://www.ndtv.com/video/live/channel/ndtv24x7",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/ndtv.png"
+      },
+      {
+         "name":"News18",
+         "url":"https://www.news18.com/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/news18.png"
+      },
+      {
+         "name":"Times Now",
+         "url":"https://www.timesnownews.com/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/times_now.png"
+      },
+      {
+         "name":"India Today",
+         "url":"https://www.indiatoday.in/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/india_today.png"
+      },
+      {
+         "name":"Republic",
+         "url":"https://www.republicworld.com/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/republic.png"
+      },
+      {
+         "name":"NewsX",
+         "url":"https://www.newsx.com",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/newsx.png"
+      },
+      {
+         "name":"CNBC TV18",
+         "url":"https://www.cnbctv18.com/live-tv/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/cnbc.png"
+      },
+      {
+         "name":"NDTV Profit",
+         "url":"https://www.ndtv.com/business",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/profit.png",
+         "browser":"chrome"
+      },
+      {
+         "name":"Google News",
+         "url":"https://news.google.com/?tab=wn&hl=en-IN&gl=IN&ceid=IN:en",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/google.jpg"
+      },
+      {
+         "name":"BBC News",
+         "url":"https://www.bbc.com/news/world",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/bbc.jpg",
+         "browser":"chrome"
+      },
+      {
+         "name":"Sky News",
+         "url":"https://news.sky.com/world",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/sky.jpg"
+      },
+      {
+         "name":"Al Jazeera",
+         "url":"https://www.aljazeera.com/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/jazeera.jpg"
+      },
+      {
+         "name":"ABC News",
+         "url":"https://abcnews.go.com/International",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/abc_news.jpg"
+      },
+      {
+         "name":"BBC Sport",
+         "url":"https://www.bbc.co.uk/sport",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/bbc_sport.png"
+      },
+      {
+         "name":"Sky Sports",
+         "url":"https://www.skysports.com/",
+         "img":"https://storage.googleapis.com/tamilnews/newspaper/engnewspaper/images/sky_sports.jpg"
+      }
 ]

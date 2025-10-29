@@ -57,7 +57,7 @@
     "name": "Alayam FM 90.0",
     "url": "https://alayam90-prabak78.radioca.st/stream",
     "img": "https://tamilradios.net/webpimg/radio_72465_alayam.webp",
-    "category": "International"
+    "category": "Radio"
   },
 
   {
@@ -70,6 +70,12 @@
     "name":"Anboli FM",
     "url":"https://tamilradios.net/radiolive/?q=http://tachyon.shoutca.st:8643/stream",
     "img":"https://tamilradios.net/webpimg/radio_6993_Anboli-FM.webp",
+    "category":"Music"
+  },
+  {
+    "name":"Tamil Sun FM",
+    "url":"https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;",
+    "img":"https://radiosindia.com/images/tamilsunfm.jpg",
     "category":"Music"
   }
 
