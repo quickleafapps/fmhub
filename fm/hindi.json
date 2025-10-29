@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AIR FM Rainbow",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "img": "https://i.imgur.com/air_fm.png",
+    "category": "News"
+  },
+  {
+    "name": "Radio City Hindi",
+    "url": "https://prclive1.listenon.in/Hindi",
+    "img": "https://i.imgur.com/radiocity_hindi.png",
+    "category": "Bollywood"
+  },
+  {
+    "name": "Red FM India",
+    "url": "https://stream-65.zeno.fm/gq5xy4n5u0hvv",
+    "img": "https://i.imgur.com/red_fm.png",
+    "category": "Hits"
+  },
+  {
+    "name": "Radio Mirchi 98.3",
+    "url": "https://stream-icy.radio.mirchi.com/mirchi",
+    "img": "https://i.imgur.com/mirchi_hindi.png",
+    "category": "Music"
+  },
+  {
+    "name": "Vividh Bharati",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8",
+    "img": "https://i.imgur.com/vividh_bharati.png",
+    "category": "Classics"
+  }
+]

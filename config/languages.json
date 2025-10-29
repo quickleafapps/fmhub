@@ -1,0 +1,6 @@
+[
+  { "name": "Tamil", "code": "tamil", "flag": "https://cdn.fmhub.in/flags/tamil.png" },
+  { "name": "Hindi", "code": "hindi", "flag": "https://cdn.fmhub.in/flags/hindi.png" },
+  { "name": "Kannada", "code": "kannada", "flag": "https://cdn.fmhub.in/flags/kannada.png" },
+  { "name": "Telugu", "code": "telugu", "flag": "https://cdn.fmhub.in/flags/telugu.png" }
+]

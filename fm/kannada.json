@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Radio City Kannada",
+    "url": "https://prclive1.listenon.in/Kannada",
+    "img": "https://i.imgur.com/radiocity_ka.png",
+    "category": "Music"
+  },
+  {
+    "name": "Big FM Kannada",
+    "url": "https://stream-47.zeno.fm/tkzk35e5u0hvv",
+    "img": "https://i.imgur.com/bigfm_kn.png",
+    "category": "Hits"
+  },
+  {
+    "name": "FM Rainbow Bengaluru",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+    "img": "https://i.imgur.com/fm_rainbow_blr.png",
+    "category": "Government"
+  },
+  {
+    "name": "Spice FM Kannada",
+    "url": "https://stream-51.zeno.fm/n1r6bz4hwuhvv",
+    "img": "https://i.imgur.com/spicefm_kn.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Radio City Bhakti Kannada",
+    "url": "https://prclive1.listenon.in/Bhakti",
+    "img": "https://i.imgur.com/bhakti_kn.png",
+    "category": "Devotional"
+  }
+]

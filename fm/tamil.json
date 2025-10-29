@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Radio Mirchi Tamil",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444",
+    "img": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi.webp",
+    "category": "Music"
+  },
+  {
+    "name": "Suryan FM",
+    "url": "https://stream-icy.suryanfm.com/stream",
+    "img": "https://i.imgur.com/suryan_fm.png",
+    "category": "Hits"
+  },
+  {
+    "name": "Hello FM",
+    "url": "https://stream-59.zeno.fm/yptz7wfdwuhvv",
+    "img": "https://i.imgur.com/hello_fm.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Aasai FM",
+    "url": "https://stream-44.zeno.fm/gexq72tz6uhvv",
+    "img": "https://i.imgur.com/aasai_fm.png",
+    "category": "Devotional"
+  },
+  {
+    "name": "Tamil 89.4 FM Dubai",
+    "url": "https://stream-60.zeno.fm/7k65e5r7vuhvv",
+    "img": "https://i.imgur.com/tamilfm_dubai.png",
+    "category": "International"
+  }
+]

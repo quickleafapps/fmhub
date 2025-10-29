@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "update_message": "Added Kannada FMs",
+  "ads": {
+    "banner": "ca-app-pub-xxxxx/xxxxx",
+    "interstitial": "ca-app-pub-xxxxx/xxxxx",
+    "rewarded": "ca-app-pub-xxxxx/xxxxx"
+  },
+  "ui": {
+    "theme": "dark",
+    "accent_color": "#00FF99"
+  }
+}
