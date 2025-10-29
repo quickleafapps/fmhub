@@ -1,19 +1,19 @@
 [
   {
     "name": "Radio Mirchi Tamil",
-    "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444",
+    "url": "http://163.172.165.94:8320/;stream.mp3",
     "img": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi.webp",
     "category": "Music"
   },
   {
     "name": "Suryan FM",
-    "url": "https://stream-icy.suryanfm.com/stream",
+    "url": "http://163.172.165.94:8728/;stream.mp3",
     "img": "https://i.imgur.com/suryan_fm.png",
     "category": "Hits"
   },
   {
     "name": "Hello FM",
-    "url": "http://104.238.193.114:7077/;stream.mp3",
+    "url": "https://hellofmstore.s3.amazonaws.com/playout/SONG-92.mp3",
     "img": "https://i.imgur.com/hello_fm.png",
     "category": "Entertainment"
   },
