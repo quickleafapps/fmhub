@@ -1,32 +1,76 @@
 [
   {
-    "name": "Radio Mirchi Tamil",
-    "url": "http://163.172.165.94:8320/;stream.mp3",
-    "img": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi.webp",
+    "name": "FM Rainbow Chennai",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+    "img": "https://tamilradios.net/webpimg/radio_72401_air-rainbow-Che.webp",
     "category": "Music"
   },
   {
-    "name": "Suryan FM",
-    "url": "http://163.172.165.94:8728/;stream.mp3",
-    "img": "https://i.imgur.com/suryan_fm.png",
+    "name": "Muthamil Fm",
+    "url": "https://ec2.yesstreaming.net:2540/stream",
+    "img": "https://tamilradios.net/webpimg/radio_24565_muthamil-fm.webp",
     "category": "Hits"
   },
   {
-    "name": "Hello FM",
-    "url": "https://hellofmstore.s3.amazonaws.com/playout/SONG-92.mp3",
-    "img": "https://i.imgur.com/hello_fm.png",
+    "name": "Thaalam FM - 88.9 HD3",
+    "url": "https://ec4.yesstreaming.net:1990/stream",
+    "img": "https://tamilradios.net/webpimg/radio_38984_thaalam.webp",
     "category": "Entertainment"
   },
   {
-    "name": "Aasai FM",
-    "url": "https://stream-44.zeno.fm/gexq72tz6uhvv",
-    "img": "https://i.imgur.com/aasai_fm.png",
+    "name": "CMR Tamil HD Radio",
+    "url": "https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio",
+    "img": "https://tamilradios.net/webpimg/radio_84626_cmr-tamil-hd-radio.webp",
     "category": "Devotional"
   },
   {
-    "name": "Tamil 89.4 FM Dubai",
-    "url": "https://stream-60.zeno.fm/7k65e5r7vuhvv",
-    "img": "https://i.imgur.com/tamilfm_dubai.png",
+    "name": "Minnal FM",
+    "url": "https://28163.live.streamtheworld.com/MINNAL_FMAAC.aac",
+    "img": "https://tamilradios.net/webpimg/radio_56570_RTM-Minnal-Fm.webp",
     "category": "International"
+  },
+  {
+    "name": "ADIRAI FM 90.4",
+    "url": "https://listen.radioking.com/radio/188161/stream/230320",
+    "img": "https://tamilradios.net/webpimg/radio_95083_ADIRAI-FM-90.4.webp",
+    "category": "International"
+  },
+  {
+    "name": "AMR Radio",
+    "url": " https://tamilradios.net/radiolive/?q=http://listen.openstream.co/5791/audio",
+    "img": "https://tamilradios.net/webpimg/radio_4881_amr-radio.webp",
+    "category": "International"
+  },
+  {
+    "name": "Dnet FM 90.8",
+    "url": "https://streamasiahlscdn.atc-labs.com/dnetfm.m3u8",
+    "img": "https://tamilradios.net/webpimg/radio_45965_d-net.webp",
+    "category": "International"
+  },
+  {
+    "name": "Sona FM 107.8",
+    "url": "https://streamasiahlscdn.atc-labs.com/valliapparadio.m3u8",
+    "img": "https://tamilradios.net/webpimg/radio_14748_download.webp",
+    "category": "International"
+  },
+  {
+    "name": "Alayam FM 90.0",
+    "url": "https://alayam90-prabak78.radioca.st/stream",
+    "img": "https://tamilradios.net/webpimg/radio_72465_alayam.webp",
+    "category": "International"
+  },
+
+  {
+    "name": "Star FM",
+    "url": "https://stream.starfm.lk:12025/stream",
+    "img": "https://tamilradios.net/webpimg/radio_79284_star-fm.webp",
+    "category": "Music"
+  },
+  {
+    "name":"Anboli FM",
+    "url":"https://tamilradios.net/radiolive/?q=http://tachyon.shoutca.st:8643/stream",
+    "img":"https://tamilradios.net/webpimg/radio_6993_Anboli-FM.webp",
+    "category":"Music"
   }
+
 ]
