@@ -1,32 +1,38 @@
 [
   {
-    "name": "Radio City Kannada",
-    "url": "https://prclive1.listenon.in/Kannada",
-    "img": "https://i.imgur.com/radiocity_ka.png",
-    "category": "Music"
+    "name": "Akashvani Karnataka",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio03064kbps107727492.aac",
+    "img": "https://radiosindia.com/images/air.jpg",
+    "category": "Radio"
   },
   {
-    "name": "Big FM Kannada",
-    "url": "https://stream-47.zeno.fm/tkzk35e5u0hvv",
-    "img": "https://i.imgur.com/bigfm_kn.png",
-    "category": "Hits"
+    "name": "Demo FM",
+    "url": "https://27143.live.streamtheworld.com/RADIO_SUNO_MELODY_S06.mp3",
+    "img": "https://radiosindia.com/images/radiosunokannada1.jpg",
+    "category": "Radio"
   },
   {
-    "name": "FM Rainbow Bengaluru",
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
-    "img": "https://i.imgur.com/fm_rainbow_blr.png",
+    "name": "Mirchi kannada hits",
+    "url": "https://stream-159.zeno.fm/68snnbug8rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2OHNubmJ1ZzhyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJ0RXI3YWltU2pDSU9aRVc3VUJFdHciLCJpYXQiOjE3NjE4MjQzMjIsImV4cCI6MTc2MTgyNDM4Mn0.WqFnPawLDZ8RHX_JgF0HKGDl0eLmiJxSCNoSgSgVALY",
+    "img": "https://radiosindia.com/images/kannadahits.jpg",
     "category": "Government"
   },
   {
-    "name": "Spice FM Kannada",
-    "url": "https://stream-51.zeno.fm/n1r6bz4hwuhvv",
-    "img": "https://i.imgur.com/spicefm_kn.png",
-    "category": "Entertainment"
+    "name": "VV Radio",
+    "url": "https://eu1.fastcast4u.com/proxy/vvradio?mp=/;",
+    "img": "https://radiosindia.com/images/vvradio.jpg",
+    "category": "Radio"
   },
   {
-    "name": "Radio City Bhakti Kannada",
-    "url": "https://prclive1.listenon.in/Bhakti",
-    "img": "https://i.imgur.com/bhakti_kn.png",
-    "category": "Devotional"
+    "name": "AMR Radio",
+    "url": "https://stream-158.zeno.fm/7g8axtgtsg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZzhheHRndHNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkpVYXcwbjhGVG8yNzJGR3JvbXE1dUEiLCJpYXQiOjE3NjE4MjQ0MzksImV4cCI6MTc2MTgyNDQ5OX0.NHaEmGMWNkl35VYkRqFSgXwniiH4-ImaDKHYWNXGJ58",
+    "img": "https://radiosindia.com/images/amrradio.jpg",
+    "category": "Radio"
+  },
+   {
+    "name": "FM Rainbow",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio02764kbps107727521.aac",
+    "img": "https://radiosindia.com/images/fmrainbow.jpg",
+    "category": "Radio"
   }
 ]
