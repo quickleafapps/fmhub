@@ -3,12 +3,20 @@
   "update_message": "Added Kannada FMs",
   "ads": {
     "banner": "ca-app-pub-xxxxx/xxxxx",
-    "medium": "ca-app-pub-3940256099942544/3986624511",
     "interstitial": "ca-app-pub-xxxxx/xxxxx",
-    "rewarded": "ca-app-pub-xxxxx/xxxxx"
+    "rewarded": "ca-app-pub-xxxxx/xxxxx",
+    "medium": "ca-app-pub-3940256099942544/3986624511"
   },
   "ui": {
     "theme": "dark",
     "accent_color": "#00FF99"
+  },
+  "menu": {
+    "rateus": "https://play.google.com/store/apps/details?id=com.quickleaf.fmhub",
+    "share_text": "🎧 Listen to FM Hub – Live Indian FM & Podcasts! Download now 👉 https://play.google.com/store/apps/details?id=com.quickleaf.fmhub",
+    "privacy_policy": "https://quickleafapps.github.io/fmhub/privacy.html",
+    "contact_email": "quickleafapps@gmail.com",
+    "contact_text": "📧 quickleafapps@gmail.com\n\nWe'd love to hear your feedback! Reach out anytime.",
+    "disclaimer_text": "FM Hub is a content aggregation platform that provides access to publicly available FM radio streams, podcasts, and other audio sources. We do not host or own any of the FM stations or audio content featured in this app. All streams, logos, and media remain the property of their respective owners. FM Hub acts solely as a directory that organizes publicly accessible links for convenient listening. If any station owner or copyright holder wishes to request removal or modification of their content, they may contact us at quickleafapps@gmail.com, and we will take appropriate action promptly. This app is intended for informational and entertainment purposes only and does not claim any ownership or affiliation with the listed broadcasters."
   }
 }
